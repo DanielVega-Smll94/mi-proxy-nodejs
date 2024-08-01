@@ -22,6 +22,6 @@ ENV NODE_ENV=${NODE_ENV}
 
 RUN npm install --only=prod
 
-EXPOSE 9995
+EXPOSE 10000
 
 CMD ["node", "src/index.js"]
