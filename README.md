@@ -42,3 +42,4 @@ Proyecto de node, como proxy
 
 Autor: Daniel Vega. 
 Fecha: 27-06-2024
+Fecha Modificación: 25-07-2024
